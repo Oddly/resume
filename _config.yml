@@ -3,7 +3,7 @@
 # Site Settings
 title: Sam Crauwels resume
 url: 'https://samcrauwels.info'
-baseurl: 'cv' #change it according to your repository name
+baseurl: '' #change it according to your repository name
 description: Sam Crauwels resume 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
