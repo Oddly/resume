@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Sam Crauwels
-    tagline: Junior open source engineer
+    tagline: Junior open source/linux engineer
     avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,29 +31,25 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French 
+        level: Intermediate
 
     interests:
-      - item: Climbing
+      - item: Open Source Homelab
         link:
 
-      - item: Snowboarding
+      - item: Science Fiction literature
         link:
 
-      - item: Cooking
+      - item: Electronics
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+        Began working as Process Operator at BASF, where next to my job function, I was also responsible for automating certain tasks (making GHS labeling, digitalising control rounds). Throughout this period, I discovered my love for Linux and open source in my spare time and decided
+        that that was the career I wanted to pursue. So here I am now.
 
-      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
