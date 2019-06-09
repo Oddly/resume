@@ -35,7 +35,7 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Open source omelab
+      - item: Open source homelab
         link:
 
       - item: Science fiction literature
@@ -111,7 +111,6 @@ skills:
     toolset:
         - name: Operating systems
         - text: CentOS 7/8, Fedora 26-30, Debian 6-9, Ubuntu 14.04-19.04, Arch Linux, Kali, Windows 98-7, Windows server NT/2003
-        - name:  
 
 
 footer: >
