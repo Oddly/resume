@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Sam Crauwels
     tagline: Junior open source/linux engineer
-    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: sam.crauwels@gmail.com
@@ -35,10 +35,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Open Source Homelab
+      - item: Open source omelab
         link:
 
-      - item: Science Fiction literature
+      - item: Science fiction literature
         link:
 
       - item: Electronics
@@ -49,6 +49,7 @@ career-profile:
     summary: |
         Soon after finishing my mechanics diploma I began working for the chemical factory "BASF" as a process operator.
         In the 13 years I've worked there I've grown from junior process opeator to senior with multiple side projects. Due to my personal interest for computer technology I've had the opportunity to automate some processes within BASF. But my passion was bigger than what I could do as a process operator. That is why I decided to follow my dream and chase a career in the IT. That dream looked like an unreachable goal at first, combining education with a family and a full time job, but after months of determination and training I manage to achieve my first certification (RHCSA) with a score of 283/300.
+
 education:
     - role: Process operator 
       time: 2006 - 2019
@@ -109,7 +110,7 @@ skills:
 
     toolset:
         - name: Operating systems
-              CentOS 7/8, Fedora 26-30, Debian 6-9, Ubuntu 14.04-19.04, Arch Linux, Kali, Windows 98-7, Windows server NT/2003
+        - text: CentOS 7/8, Fedora 26-30, Debian 6-9, Ubuntu 14.04-19.04, Arch Linux, Kali, Windows 98-7, Windows server NT/2003
         - name:  
 
 
