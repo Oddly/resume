@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: Sam Crauwels resume
-url: 'https://samcrauwels.info'
+title: Resume of Sam Crauwels
+url: 'https://cv.samcrauwels.info'
 baseurl: '' #change it according to your repository name
 description: Resume of Sam Crauwels
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
