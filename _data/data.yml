@@ -103,11 +103,11 @@ skills:
         - name: Virtualisation
         - text: VMware, KVM, Virtualbox, Docker
         - name: Monitoring tools
-        - text: *top, nmap, nload, iftop, Wireshark
+        - text: n/htop, nmap, nload, iftop, Wireshark
         - name: Network
         - text: CIFs, FTP, DNS, DHCP, NFS, SSH
         - name: Back up and storage
-        - text: RAID*, ZFS, BRTFS,...
+        - text: RAID1/10/5/6, ZFS, BRTFS,...
         - name: Scripting languages
         - text: BASH, Python
         - name: Cloud
