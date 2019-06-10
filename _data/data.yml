@@ -38,19 +38,25 @@ sidebar:
       - item: Open source homelab
         link:
 
-      - item: Science fiction literature
+      - item: Electronics
         link:
 
-      - item: Electronics
+      - item: Science Fiction
         link:
 
 career-profile:
     title: Career Profile
     summary: |
         Soon after finishing my mechanics diploma I began working for the chemical factory "BASF" as a process operator.
-        In the 13 years I've worked there I've grown from junior process opeator to senior with multiple side projects. Due to my personal interest for computer technology I've had the opportunity to automate some processes within BASF. But my passion was bigger than what I could do as a process operator. That is why I decided to follow my dream and chase a career in the IT. That dream looked like an unreachable goal at first, combining education with a family and a full time job, but after months of determination and training I manage to achieve my first certification (RHCSA) with a score of 283/300.
+        In the 13 years I've worked there I've grown from junior process opeator to senior with multiple side projects. 
+        Due to my personal interest for computer technology I've had the opportunity to automate some processes within BASF. But my passion was bigger than what I could do as a process operator. That is why I decided to follow my dream and chase a career in the IT. That dream looked like an unreachable goal at first, combining education with a family and a full time job, but after months of determination and training I manage to achieve my first certification (RHCSA) with a score of 283/300.
 
 education:
+    - degree: Computerized machining
+      time: 2000 - 2006
+      details: |
+
+experiences:
     - role: Process operator 
       time: 2006 - 2019
       company: BASF, Antwerp
@@ -86,24 +92,24 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 #publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Knowledge &amp; Proficiency
