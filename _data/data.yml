@@ -71,8 +71,10 @@ projects:
     assignments:
       - title: Set up a Pi-hole on a Raspberry Pi
         link: "https://pi-hole.net/"
-        tagline: "A project that runs on Raspbian and networkwide blocks ad-domains."
-
+        tagline: "A project that runs on Raspbian and networkwide blocks ad-domains. I set it up to use DNS over HTTPS for the whole network."
+      - title: Set up a Proxmox server with ZFS
+        link:
+        tagline: "Use RAIDZ2 and replace the Raspberry Pi's around the house with virtual machines. Use the server to test new projects and expand the homelab."
 
 #publications:
 #    title: Publications
@@ -99,21 +101,17 @@ skills:
 
     toolset:
         - name: Operating systems
-        - text: CentOS 7/8, Fedora 26-30, Debian 6-9, Ubuntu 14.04-19.04, Arch Linux, Kali, Raspbian, Openmediavault, Windows 98-7, Windows server NT/2003
+        - text: RedHat/CentOS 7/8, Fedora 26-30, Debian 6-9, Ubuntu 14.04-19.04, Arch Linux, Kali, Raspbian, Openmediavault, Windows 98-7, Windows server NT/2003
         - name: Virtualisation
         - text: VMware, KVM, Virtualbox, Docker
         - name: Monitoring tools
-        - text: n/htop, nmap, nload, iftop, Wireshark
-        - name: Network
-        - text: CIFs, FTP, DNS, DHCP, NFS, SSH
+        - text: Nagios, Conky, Munin
         - name: Back up and storage
         - text: RAID1/10/5/6, ZFS, BRTFS,...
         - name: Scripting languages
         - text: BASH, Python
         - name: Cloud
         - text: AWS, Digital Ocean
-        - name: Security
-        - text: SELinux, IPtables, UFW, OpenVPN, Wireguard
         - name: Other
         - text: Git, Rsync, Apache, Nginx
 
