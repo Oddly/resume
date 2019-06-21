@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Resume of Sam Crauwels
-url: 'https://oddly.github.io/resume/'
+url: 'https://oddly.github.io/'
 baseurl: 'resume' #change it according to your repository name
 description: Resume of Sam Crauwels
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
